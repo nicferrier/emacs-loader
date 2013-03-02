@@ -1,0 +1,4 @@
+= Loader =
+
+Emacs lacks a few simple load tools, this is a place to collect them.
+
