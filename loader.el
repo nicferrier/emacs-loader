@@ -34,7 +34,7 @@ The context directory is the directory of the current load file."
                              (or (buffer-file-name)
                                  load-file-name
                                  default-directory))))))
-    (load filename)))
+    (load local-file)))
 
 (provide 'loader)
 
